@@ -1,0 +1,22 @@
+body {
+    width: 600px;
+    margin: 0 auto;
+}
+.first {
+    background: pink;
+    border: 3px solid blue;
+    padding: 32px;
+    margin: 12px;
+}
+.main-content {
+    background: lightpink;
+    border: 3px solid purple;
+    margin-bottom: 48px;
+}
+.div3 {
+    background: lavenderblush;
+    border: 3px solid brown;
+    width: 200px;
+    padding: 30px;
+    margin-left: 400px;
+}
